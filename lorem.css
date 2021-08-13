@@ -1,0 +1,78 @@
+.orange{
+    background-color: #e6a488;
+}
+
+.blue{
+    background-color: #9bf0ff
+    ;
+}
+
+.red{
+    background-color: #DEA9BD ;
+}
+
+a{
+    text-decoration: none;
+}
+
+.laranja{
+    color: #333237;
+    padding-left: 15rem;
+    font-size: large;
+    font-family: 'Roboto', sans-serif;
+}
+
+.github{
+    padding-top: 0.5rem;
+    padding-left: 8rem;
+    height: 3rem;
+}
+
+.azul{
+    color: #333237;
+    padding-left: 8rem;
+    font-size: large;
+    font-family: 'Roboto', sans-serif;
+}
+
+.vermelho{
+    color: #333237;
+    padding-left: 8rem;
+    font-size: large;
+    font-family: 'Roboto', sans-serif;
+}
+
+.nav-bar{
+    display: inline-flex;
+    background-color: #FFC5AC;
+    position: absolute;
+    width: 82.5rem;
+    height: 60px;
+    border-radius: 1rem;
+}
+
+.logo{
+    height: 2rem;
+    padding-left: 2rem;
+    padding-top: 1rem;
+}
+
+.main{
+    display: inline-flex;
+    padding-top: 6rem;
+    padding-left: 5rem;
+}
+
+.imagem{
+    border-radius: 12px;
+}
+
+.lorem-main{
+    padding-left: 2rem;
+    width: 30rem;
+}
+
+.paragrafo{
+    padding-left: 4rem;
+}
+
